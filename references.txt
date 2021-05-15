@@ -1,0 +1,138 @@
+R. A. Katole, S. S. Sherekar and V. M. Thakare, "Detection of SQL injection attacks by removing the parameter values of SQL query," 2018 2nd International Conference on Inventive Systems and Control (ICISC), Coimbatore, 2018, pp. 736-741, doi: 10.1109/ICISC.2018.8398896.
+
+@INPROCEEDINGS{8398896,
+  author={R. A. {Katole} and S. S. {Sherekar} and V. M. {Thakare}},
+  booktitle={2018 2nd International Conference on Inventive Systems and Control (ICISC)}, 
+  title={Detection of SQL injection attacks by removing the parameter values of SQL query}, 
+  year={2018},
+  volume={},
+  number={},
+  pages={736-741},
+  doi={10.1109/ICISC.2018.8398896}}
+
+===========================================================================================================
+
+L. Ma, D. Zhao, Y. Gao and C. Zhao, "Research on SQL Injection Attack and Prevention Technology Based on Web," 2019 International Conference on Computer Network, Electronic and Automation (ICCNEA), Xi'an, China, 2019, pp. 176-179, doi: 10.1109/ICCNEA.2019.00042.
+
+@INPROCEEDINGS{8912016,
+  author={L. {Ma} and D. {Zhao} and Y. {Gao} and C. {Zhao}},
+  booktitle={2019 International Conference on Computer Network, Electronic and Automation (ICCNEA)}, 
+  title={Research on SQL Injection Attack and Prevention Technology Based on Web}, 
+  year={2019},
+  volume={},
+  number={},
+  pages={176-179},
+  doi={10.1109/ICCNEA.2019.00042}}
+
+========================================================================================================
+
+E. Pearson and C. L. Bethel, "A design review: Concepts for mitigating SQL injection attacks," 2016 4th International Symposium on Digital Forensic and Security (ISDFS), Little Rock, AR, USA, 2016, pp. 169-169, doi: 10.1109/ISDFS.2016.7473537.
+
+@INPROCEEDINGS{7473537,
+  author={E. {Pearson} and C. L. {Bethel}},
+  booktitle={2016 4th International Symposium on Digital Forensic and Security (ISDFS)}, 
+  title={A design review: Concepts for mitigating SQL injection attacks}, 
+  year={2016},
+  volume={},
+  number={},
+  pages={169-169},
+  doi={10.1109/ISDFS.2016.7473537}}
+
+========================================================================================================
+
+P. N. Joshi, N. Ravishankar, M. B. Raju and N. C. Ravi, "Encountering SQL Injection in Web Applications," 2018 Second International Conference on Computing Methodologies and Communication (ICCMC), Erode, 2018, pp. 257-261, doi: 10.1109/ICCMC.2018.8487999.
+
+@INPROCEEDINGS{8487999,
+  author={P. N. {Joshi} and N. {Ravishankar} and M. B. {Raju} and N. C. {Ravi}},
+  booktitle={2018 Second International Conference on Computing Methodologies and Communication (ICCMC)}, 
+  title={Encountering SQL Injection in Web Applications}, 
+  year={2018},
+  volume={},
+  number={},
+  pages={257-261},
+  doi={10.1109/ICCMC.2018.8487999}}
+
+================================================================================================
+
+A. Jana, P. Bordoloi and D. Maity, "Input-based Analysis Approach to Prevent SQL Injection Attacks," 2020 IEEE Region 10 Symposium (TENSYMP), Dhaka, Bangladesh, 2020, pp. 1290-1293, doi: 10.1109/TENSYMP50017.2020.9230758.
+
+@INPROCEEDINGS{9230758,
+  author={A. {Jana} and P. {Bordoloi} and D. {Maity}},
+  booktitle={2020 IEEE Region 10 Symposium (TENSYMP)}, 
+  title={Input-based Analysis Approach to Prevent SQL Injection Attacks}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1290-1293},
+  doi={10.1109/TENSYMP50017.2020.9230758}}
+
+=========================================================================================
+
+C. V. Gonzalez and G. Jung, "Database SQL Injection Security Problem Handling with Examples," 2019 International Conference on Computational Science and Computational Intelligence (CSCI), Las Vegas, NV, USA, 2019, pp. 145-149, doi: 10.1109/CSCI49370.2019.00031.
+
+@INPROCEEDINGS{9071133,
+  author={C. V. {Gonzalez} and G. {Jung}},
+  booktitle={2019 International Conference on Computational Science and Computational Intelligence (CSCI)}, 
+  title={Database SQL Injection Security Problem Handling with Examples}, 
+  year={2019},
+  volume={},
+  number={},
+  pages={145-149},
+  doi={10.1109/CSCI49370.2019.00031}}
+
+==========================================================================================
+
+H. Alsobhi and R. Alshareef, "SQL Injection Countermeasures Methods," 2020 International Conference on Computing and Information Technology (ICCIT-1441), Tabuk, Saudi Arabia, 2020, pp. 1-4, doi: 10.1109/ICCIT-144147971.2020.9213748.
+
+@INPROCEEDINGS{9213748,
+  author={H. {Alsobhi} and R. {Alshareef}},
+  booktitle={2020 International Conference on Computing and Information Technology (ICCIT-1441)}, 
+  title={SQL Injection Countermeasures Methods}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1-4},
+  doi={10.1109/ICCIT-144147971.2020.9213748}}
+
+======================================================================================
+
+A. Sadeghian, M. Zamani and A. A. Manaf, "A Taxonomy of SQL Injection Detection and Prevention Techniques," 2013 International Conference on Informatics and Creative Multimedia, Kuala Lumpur, Malaysia, 2013, pp. 53-56, doi: 10.1109/ICICM.2013.18.
+
+@INPROCEEDINGS{6702782,
+  author={A. {Sadeghian} and M. {Zamani} and A. A. {Manaf}},
+  booktitle={2013 International Conference on Informatics and Creative Multimedia}, 
+  title={A Taxonomy of SQL Injection Detection and Prevention Techniques}, 
+  year={2013},
+  volume={},
+  number={},
+  pages={53-56},
+  doi={10.1109/ICICM.2013.18}}
+
+=================================================================================
+G. Su, F. Wang and Q. Li, "Research on SQL Injection Vulnerability Attack model," 2018 5th IEEE International Conference on Cloud Computing and Intelligence Systems (CCIS), Nanjing, China, 2018, pp. 217-221, doi: 10.1109/CCIS.2018.8691148.
+
+@INPROCEEDINGS{8691148,
+  author={G. {Su} and F. {Wang} and Q. {Li}},
+  booktitle={2018 5th IEEE International Conference on Cloud Computing and Intelligence Systems (CCIS)}, 
+  title={Research on SQL Injection Vulnerability Attack model}, 
+  year={2018},
+  volume={},
+  number={},
+  pages={217-221},
+  doi={10.1109/CCIS.2018.8691148}}
+
+================================================================================
+
+Li Qian, Zhenyuan Zhu, Jun Hu and Shuying Liu, "Research of SQL injection attack and prevention technology," 2015 International Conference on Estimation, Detection and Information Fusion (ICEDIF), Harbin, China, 2015, pp. 303-306, doi: 10.1109/ICEDIF.2015.7280212.
+
+@INPROCEEDINGS{7280212,
+  author={ {Li Qian} and  {Zhenyuan Zhu} and  {Jun Hu} and  {Shuying Liu}},
+  booktitle={2015 International Conference on Estimation, Detection and Information Fusion (ICEDIF)}, 
+  title={Research of SQL injection attack and prevention technology}, 
+  year={2015},
+  volume={},
+  number={},
+  pages={303-306},
+  doi={10.1109/ICEDIF.2015.7280212}}
+
+
